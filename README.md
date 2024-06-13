@@ -10,3 +10,4 @@
 2. [practice2](./practice2-bluegreen-nginx-api): nginx로 Blue/Green 방식의 무중단 배포 2 - API
 3. [practice3](./practice3-bluegreen-nginx-api2): nginx로 Blue/Green 방식의 무중단 배포 2 - Shell로 업데이트
 4. [practice4](./practice4-rolling-nginx-html): nginx로 Rolling Update 방식의 무중단 배포 - (HTML)
+5. [practice5](./practice5-minikube-start): Kubernetes 실행 실습
